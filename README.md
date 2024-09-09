@@ -1,2 +1,2 @@
 # OIBSIP
-Web Deveopment And Design Internship Tasks
+Web development And Design Internship Tasks
